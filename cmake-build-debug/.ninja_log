@@ -1,0 +1,10 @@
+# ninja log v5
+0	61	1720867271874706094	build.ninja	ace1f128859b9047
+2	460	1720867073952771610	CMakeFiles/FoundationsOfAlgorithms.dir/main.cpp.o	3302e4203437c51d
+3	454	1720867073946473832	CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o	1a2bb690836387bc
+460	496	1720867073989995073	FoundationsOfAlgorithms	e2df7f3be2fc5469
+5	548	1720867347188168145	CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o	1a2bb690836387bc
+5	568	1720867347208767073	CMakeFiles/FoundationsOfAlgorithms.dir/main.cpp.o	3302e4203437c51d
+568	672	1720867347313187762	FoundationsOfAlgorithms	e2df7f3be2fc5469
+2	487	1720867413765345428	CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o	1a2bb690836387bc
+488	524	1720867413803853188	FoundationsOfAlgorithms	e2df7f3be2fc5469
