@@ -1,10 +1,9 @@
 # ninja log v5
-0	61	1720867271874706094	build.ninja	ace1f128859b9047
-2	460	1720867073952771610	CMakeFiles/FoundationsOfAlgorithms.dir/main.cpp.o	3302e4203437c51d
-3	454	1720867073946473832	CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o	1a2bb690836387bc
-460	496	1720867073989995073	FoundationsOfAlgorithms	e2df7f3be2fc5469
-5	548	1720867347188168145	CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o	1a2bb690836387bc
-5	568	1720867347208767073	CMakeFiles/FoundationsOfAlgorithms.dir/main.cpp.o	3302e4203437c51d
-568	672	1720867347313187762	FoundationsOfAlgorithms	e2df7f3be2fc5469
+0	61	1720953980702921769	build.ninja	ace1f128859b9047
+4	558	1720925655374373117	CMakeFiles/FoundationsOfAlgorithms.dir/ch1/binarySearch.cpp.o	9254e769b06576f0
+3	500	1720925666843781162	CMakeFiles/FoundationsOfAlgorithms.dir/main.cpp.o	3302e4203437c51d
 2	487	1720867413765345428	CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o	1a2bb690836387bc
-488	524	1720867413803853188	FoundationsOfAlgorithms	e2df7f3be2fc5469
+501	534	1720925666878451982	FoundationsOfAlgorithms	e67fb64ce50640a5
+4	108	1720954107109496337	CMakeFiles/FoundationsOfAlgorithms.dir/ch1/fib.cpp.o	ae2796698ac08edd
+4	602	1720954107601610205	CMakeFiles/FoundationsOfAlgorithms.dir/main.cpp.o	3302e4203437c51d
+602	776	1720954107775551803	FoundationsOfAlgorithms	7174b1020d4afcc0

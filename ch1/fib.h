@@ -1,0 +1,10 @@
+//
+// Created by 최영환1 on 7/14/24.
+//
+
+#ifndef FOUNDATIONSOFALGORITHMS_FIB_H
+#define FOUNDATIONSOFALGORITHMS_FIB_H
+
+int fib(int n);
+
+#endif //FOUNDATIONSOFALGORITHMS_FIB_H

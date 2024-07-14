@@ -61,6 +61,18 @@ build CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o: CXX_COMPIL
   OBJECT_DIR = CMakeFiles/FoundationsOfAlgorithms.dir
   OBJECT_FILE_DIR = CMakeFiles/FoundationsOfAlgorithms.dir/ch1
 
+build CMakeFiles/FoundationsOfAlgorithms.dir/ch1/binarySearch.cpp.o: CXX_COMPILER__FoundationsOfAlgorithms_unscanned_Debug /Users/choeyeonghwan1/CLionProjects/FoundationsOfAlgorithms/ch1/binarySearch.cpp || cmake_object_order_depends_target_FoundationsOfAlgorithms
+  DEP_FILE = CMakeFiles/FoundationsOfAlgorithms.dir/ch1/binarySearch.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/FoundationsOfAlgorithms.dir
+  OBJECT_FILE_DIR = CMakeFiles/FoundationsOfAlgorithms.dir/ch1
+
+build CMakeFiles/FoundationsOfAlgorithms.dir/ch1/fib.cpp.o: CXX_COMPILER__FoundationsOfAlgorithms_unscanned_Debug /Users/choeyeonghwan1/CLionProjects/FoundationsOfAlgorithms/ch1/fib.cpp || cmake_object_order_depends_target_FoundationsOfAlgorithms
+  DEP_FILE = CMakeFiles/FoundationsOfAlgorithms.dir/ch1/fib.cpp.o.d
+  FLAGS = -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/FoundationsOfAlgorithms.dir
+  OBJECT_FILE_DIR = CMakeFiles/FoundationsOfAlgorithms.dir/ch1
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target FoundationsOfAlgorithms
@@ -69,7 +81,7 @@ build CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o: CXX_COMPIL
 #############################################
 # Link the executable FoundationsOfAlgorithms
 
-build FoundationsOfAlgorithms: CXX_EXECUTABLE_LINKER__FoundationsOfAlgorithms_Debug CMakeFiles/FoundationsOfAlgorithms.dir/main.cpp.o CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o
+build FoundationsOfAlgorithms: CXX_EXECUTABLE_LINKER__FoundationsOfAlgorithms_Debug CMakeFiles/FoundationsOfAlgorithms.dir/main.cpp.o CMakeFiles/FoundationsOfAlgorithms.dir/ch1/exchange_sort.cpp.o CMakeFiles/FoundationsOfAlgorithms.dir/ch1/binarySearch.cpp.o CMakeFiles/FoundationsOfAlgorithms.dir/ch1/fib.cpp.o
   FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk
   OBJECT_DIR = CMakeFiles/FoundationsOfAlgorithms.dir
   POST_BUILD = :
